@@ -4,3 +4,6 @@
 [submodule "2.1/AOC -Arquitetura e Organização de Computadores/Projetos I Trabalhos/TP02_video-processing"]
 	path = 2.1/AOC -Arquitetura e Organização de Computadores/Projetos I Trabalhos/TP02_video-processing
 	url = https://github.com/liceki/TP02_video-processing.git
+[submodule "2.1/ESOF I - Egenharia de Software I/CEAMEC"]
+	path = 2.1/ESOF I - Egenharia de Software I/CEAMEC
+	url = https://github.com/liceki/CEAMEC.git
