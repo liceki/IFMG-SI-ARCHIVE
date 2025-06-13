@@ -7,3 +7,6 @@
 [submodule "2.1/ESOF I - Egenharia de Software I/CEAMEC"]
 	path = 2.1/ESOF I - Egenharia de Software I/CEAMEC
 	url = https://github.com/liceki/CEAMEC.git
+[submodule "2.1/ESOF I - Egenharia de Software I/Projetos I Trabalhos/CEAMEC"]
+	path = 2.1/ESOF I - Egenharia de Software I/Projetos I Trabalhos/CEAMEC
+	url = https://github.com/liceki/CEAMEC.git
