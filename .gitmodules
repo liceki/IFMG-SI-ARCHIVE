@@ -1,3 +1,6 @@
 [submodule "2.1/AOC -Arquitetura e Organização de Computadores/TP2_video-processing"]
 	path = 2.1/AOC -Arquitetura e Organização de Computadores/TP2_video-processing
 	url = https://github.com/liceki/TP02_video-processing.git
+[submodule "2.1/AOC -Arquitetura e Organização de Computadores/Projetos I Trabalhos/TP02_video-processing"]
+	path = 2.1/AOC -Arquitetura e Organização de Computadores/Projetos I Trabalhos/TP02_video-processing
+	url = https://github.com/liceki/TP02_video-processing.git
